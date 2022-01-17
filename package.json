@@ -2,7 +2,7 @@
   "name": "pomodoro-timer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krish-shahh.github.io/pomodoro-timer/",
+  "homepage": "https://podmoro-timer.vercel.app",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
